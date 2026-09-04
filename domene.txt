@@ -4,3 +4,4 @@
 ||whetheronto.com^
 ||prettywhy.com^
 ||phewcutlet.com^
+||stiffpast.com^$domain=index.hr
