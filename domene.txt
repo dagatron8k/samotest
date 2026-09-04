@@ -1,7 +1,7 @@
-||suddenlyany.com^
-||trivialblowgun.com^
-||baritonepro.com^
-||whetheronto.com^
-||prettywhy.com^
-||phewcutlet.com^
+||suddenlyany.com^$domain=index.hr
+||trivialblowgun.com^$domain=index.hr
+||baritonepro.com^$domain=index.hr
+||whetheronto.com^$domain=index.hr
+||prettywhy.com^$domain=index.hr
+||phewcutlet.com^$domain=index.hr
 ||stiffpast.com^$domain=index.hr
