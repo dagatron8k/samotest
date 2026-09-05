@@ -5,3 +5,4 @@
 ||prettywhy.com^$domain=index.hr
 ||phewcutlet.com^$domain=index.hr
 ||stiffpast.com^$domain=index.hr
+||colourpike.com^$domain=index.hr
