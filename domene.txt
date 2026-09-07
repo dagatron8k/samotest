@@ -6,3 +6,4 @@
 ||phewcutlet.com^$domain=index.hr
 ||stiffpast.com^$domain=index.hr
 ||colourpike.com^$domain=index.hr
+||frizzsince.com^$domain=index.hr
