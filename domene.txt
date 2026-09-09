@@ -8,4 +8,4 @@
 ||colourpike.com^$domain=index.hr
 ||frizzsince.com^$domain=index.hr
 ||hmphpeppery.com^$domain=index.hr
-||whoinasmuch.com$^domain=index.hr
+||whoinasmuch.com^$domain=index.hr
