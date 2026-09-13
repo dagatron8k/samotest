@@ -10,3 +10,4 @@
 ||hmphpeppery.com^$domain=index.hr
 ||whoinasmuch.com^$domain=index.hr
 ||assuredwhoa.com^$domain=index.hr
+||contentyet.com^$domain=index.hr
