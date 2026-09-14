@@ -1,3 +1,6 @@
+||permutive.app^$domain=index.hr
+||permutive.com^$domain=index.h
+
 ||suddenlyany.com^$domain=index.hr
 ||trivialblowgun.com^$domain=index.hr
 ||baritonepro.com^$domain=index.hr
