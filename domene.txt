@@ -1,2 +1,2 @@
 ||permutive.app^$domain=index.hr
-||permutive.com^$domain=index.h
+||permutive.com^$domain=index.hr
